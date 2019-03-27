@@ -1,0 +1,23 @@
+#image-div {
+  opacity: 0.6;
+}
+
+.services {
+  background-color: white;
+  border-radius: 50px 20px;
+}
+
+.list-group .list-group-item {
+  background-color: #EDEDED;
+  color: #4C4C4C;
+}
+
+h1, h2, h3, h4 {
+  color: #4C4C4C;
+}
+
+.services-text {
+  color: #A8A8A8 !important;
+  background-color: white;
+  padding: 20px;
+}

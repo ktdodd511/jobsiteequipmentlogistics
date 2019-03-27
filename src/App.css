@@ -1,1 +1,32 @@
+body {
+  background-image: url('./images/grey-background.jpg');
+}
 
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  color: #4C4C4C;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact {
+  background: #fff;
+}
+
+#contact-image {
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.6;
+}
+
+#logo {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}

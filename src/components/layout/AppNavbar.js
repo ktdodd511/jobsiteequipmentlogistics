@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import Logo from '../../images/jelLogo.jpeg';
 
 
 
@@ -9,6 +10,7 @@ class AppNavbar extends Component {
       <nav className="navbar navbar-expand-md navbar-dark bg-primary mb-4">
         <div className="container">
           <Link to="/" className="navbar-brand">
+            <img id="logo" src={Logo} /> {' '}
             Jobsite Equipment Logistics
           </Link>
           <button
