@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './Services.css'
 
-class Portable extends Component {
+class Fencing extends Component {
   render() {
     return (
       <div>
-        <h2 className="text-center"><i className="fas fa-restroom" /> Portable Toilets</h2>
+        <h2 className="text-center"><i className="fas fa-align-justify" /> Temporary Fencing</h2>
         <div class="container mt-4 services-text">
-          <h3 className="text-center">From basic construction units to fully-functional comfort stations, we can help.</h3>
+          <h3 className="text-center">Reduce liability and secure your site easily with temporary fencing from JEL.</h3>
           <h3 className="text-center"><Link to="/contact"> Contact Us to Learn More </Link></h3>
         </div>
       </div>
@@ -16,4 +16,4 @@ class Portable extends Component {
   }
 }
 
-export default Portable;
+export default Fencing;

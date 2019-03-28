@@ -30,3 +30,12 @@ body {
   width: 40px;
   border-radius: 50%;
 }
+
+.dropdown-menu {
+  background-color: #D6D8DB;
+}
+
+.dropdown-item:hover {
+  background-color: #282828;
+  color: #fff;
+}
