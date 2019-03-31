@@ -35,7 +35,7 @@ class Services extends Component {
           <div className="col-md-3 services">
           <h3 className="text-center p-2">
             <Link to="/portable-toilets" className="font-weight-light">
-              <i className="fas fa-toilet fa-4x" />
+              <i className="fas fa-restroom fa-4x" />
             </Link>
           </h3>
           <h3 className="text-center p-2">

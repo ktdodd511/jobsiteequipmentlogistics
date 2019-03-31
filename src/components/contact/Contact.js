@@ -8,7 +8,7 @@ class Contact extends Component {
       <div>
         <div className="text-center">
           <h1 className="text-center">Contact Us</h1>
-          <h2><i className="fas fa-envelope-open"/>{' '}<i className="fas fa-address-book"/>{' '}<i className="fas fa-phone"/>{' '}<i className="fas fa-mobile"/></h2>
+          <h2><i className="fas fa-envelope-open"/>{' '}<i className="fas fa-phone"/>{' '}<i className="fas fa-mobile"/></h2>
         </div>
         <div className="container contact-container">
           <div className="row contact">
