@@ -100,7 +100,8 @@ class Services extends Component {
         </h1>
         <div className="row m-5">
           <div className="col-md-12 p-3">
-            <h3 className="text-center">JEL works with national contractors and retailers to simplify how they order dumpsters, containers and equipment for special projects, construction and rollouts.</h3>
+            <h3 className="text-center">Jobsite Equipment Logistics specializes in solid waste removal, equipment rental and recycling services for construction sites and other resources. Our goal is to utilize our buying power nationwide to help lower costs for our customers. As your dedicated business partner, we strive to provide the best customer service and to maintain effective communication throughout the entire process so you are stress-free!</h3>
+            <h3 className="text-center">Long gone are the days you need to source and call vendors in every city! Our extensive list of nationwide partners guarantee a competitive price plan for all of your construction site needs. We are a one-stop shop with the convenience of sending you one invoice or customizing it for your accounting department’s needs. Reach out today to request a quote!</h3>
           </div>
         </div>
         <div className="row m-5">

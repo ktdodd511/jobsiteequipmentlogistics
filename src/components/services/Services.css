@@ -7,6 +7,15 @@
   border-radius: 95px 20px;
 }
 
+.fa-4x, .font-weight-light {
+  color: #243665;
+}
+
+
+.fa-4x:hover, .font-weight-light:hover {
+  color: #8CD8BD;
+}
+
 .list-group .list-group-item {
   background-color: #EDEDED;
   color: #4C4C4C;
@@ -17,9 +26,15 @@ h1, h2, h3, h4 {
 }
 
 .services-text {
-  color: #A8A8A8 !important;
-  background-color: white;
   padding: 20px;
+}
+
+.services-text a {
+  color: #243665;
+}
+
+.services-text a:hover {
+  color: #8CD8BD;
 }
 
 .list-group-item-primary {

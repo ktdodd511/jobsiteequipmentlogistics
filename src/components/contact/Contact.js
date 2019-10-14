@@ -15,7 +15,7 @@ class Contact extends Component {
             <div className="col-md-12 m-3">
               <h3><b>New Customers</b></h3>
               <h4>Would you like JEL to work for you? We are ready to hear from you.</h4>
-              <h4><a href="mailto:info@gojel.com">info@gojel.com</a> or 770-842-2489</h4>
+              <h4><a href="mailto:info@gojel.com">info@gojel.com</a> or 404-828-0524</h4>
             </div>
           </div>
           <div className="row contact">
