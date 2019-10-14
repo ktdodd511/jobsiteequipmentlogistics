@@ -35,11 +35,32 @@ body {
   border-radius: 50%;
 }
 
+.dropdown a {
+  background-color: #243665;
+}
+
+.dropdown a:hover {
+  background-color: #8CD8BD;
+}
+
 .dropdown-menu {
-  background-color: #D6D8DB;
+  background-color: #243665;
+}
+
+.dropdown-item {
+  color: #fff;
 }
 
 .dropdown-item:hover {
   background-color: #243665;
-  color: #fff;
+  color: #000;
+}
+
+.email a {
+  color: #243665;
+}
+
+.email a:hover {
+  color: #8CD8BD;
+  text-decoration: none;
 }

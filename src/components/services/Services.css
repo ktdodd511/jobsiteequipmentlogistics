@@ -11,9 +11,9 @@
   color: #243665;
 }
 
-
 .fa-4x:hover, .font-weight-light:hover {
   color: #8CD8BD;
+  text-decoration: none;
 }
 
 .list-group .list-group-item {
@@ -35,12 +35,13 @@ h1, h2, h3, h4 {
 
 .services-text a:hover {
   color: #8CD8BD;
+  text-decoration: none;
 }
 
 .list-group-item-primary {
-  background-color: #047AFB !important;
+  background-color: #243665 !important;
 }
 
-.list-group-item-secondary {
-  background-color: #D6D8DB !important;
+.list-group-item-primary h4 {
+  color: #fff;
 }

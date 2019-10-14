@@ -34,7 +34,7 @@ class AppNavbar extends Component {
                 </Link>
               </li>
               <div className="dropdown">
-                <a className="btn btn-primary dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <a id="dropdown-services-title" className="btn btn-primary dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Services
                 </a>
                 <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
