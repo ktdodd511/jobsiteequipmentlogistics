@@ -35,7 +35,7 @@ class App extends Component {
             </Switch>
         </div>
         <div class="footer-copyright text-center py-3 footer">
-          © 2019 Copyright: Jobsite Equipment Logistics
+          © 2019 Copyright: Jobsite Equipment Logistics | made with &hearts; by <a id="katie" href="https://katiedodd.com">Katie Dodd</a>
         </div>
       </Router>
     );

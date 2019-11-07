@@ -64,3 +64,12 @@ body {
   color: #8CD8BD;
   text-decoration: none;
 }
+
+#katie {
+  color: #243665;
+}
+
+#katie:hover {
+  text-decoration: none;
+  color: #8CD8BD;
+}

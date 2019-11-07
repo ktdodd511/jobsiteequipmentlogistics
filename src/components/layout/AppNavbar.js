@@ -33,7 +33,7 @@ class AppNavbar extends Component {
                   Contact
                 </Link>
               </li>
-              <div className="dropdown">
+              <li className="dropdown">
                 <a id="dropdown-services-title" className="btn btn-primary dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Services
                 </a>
@@ -46,7 +46,7 @@ class AppNavbar extends Component {
                   <Link to="/recycling" className="dropdown-item">Recycling Services</Link>
                   <Link to="/fencing" className="dropdown-item">Temporary Fencing</Link>
                 </div>
-              </div>
+              </li>
             </ul>
           </div>
         </div>
